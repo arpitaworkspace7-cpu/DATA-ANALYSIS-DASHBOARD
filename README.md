@@ -55,6 +55,7 @@ This dataset can be used for:
 
 Feel free to connect for insights, dashboards, or automation.
 
----
+![WhatsApp Image 2025-10-29 at 2 56 27 PM](https://github.com/user-attachments/assets/4a779ae7-09cf-4951-b119-1262962b10f1)
 
-Would you like me to **add business problem statement + professional summary** also?
+
+
