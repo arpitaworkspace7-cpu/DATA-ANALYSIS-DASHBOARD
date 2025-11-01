@@ -14,7 +14,6 @@ This dataset can be used for:
 
 ## 📄 File Included
 
-* `arpitaecommerce_analysis_sample_550_rows.xlsx` — Original e-commerce dataset
 
 ## 🔧 How to Use
 
